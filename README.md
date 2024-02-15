@@ -1,1 +1,1 @@
-# loongarch-images
+./rust/README.md
